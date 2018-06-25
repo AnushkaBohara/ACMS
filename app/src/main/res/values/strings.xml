@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">MyProject</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Sign_in">Sign in</string>
+    <string name="EnterPhone">Enter your phone number: </string>
+    <string name="ViewBill">View your purchase history</string>
+    <string name="FindStore">Start shopping!</string>
 </resources>

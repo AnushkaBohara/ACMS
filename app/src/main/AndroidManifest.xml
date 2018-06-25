@@ -23,6 +23,7 @@
         <activity android:name=".BillingActivity" />
         <activity android:name=".ViewBills" />
         <activity android:name=".GetLocation" />
+        <activity android:name=".home"></activity>
     </application>
 
 </manifest>

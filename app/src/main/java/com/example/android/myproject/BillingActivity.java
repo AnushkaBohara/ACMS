@@ -18,7 +18,7 @@ import com.google.zxing.integration.android.IntentResult;
 
 public class BillingActivity extends AppCompatActivity {
 
-    Button add_item;
+    Button add_item,add_item2;
     String itemCode;
     LinearLayout cart;
 
@@ -28,7 +28,8 @@ public class BillingActivity extends AppCompatActivity {
         setContentView(R.layout.activity_billing);
         setTitle("Billing Activity");
 
-        add_item = (Button) findViewById(R.id.scan);
+        add_item = findViewById(R.id.scan);
+        add_item2 = findViewById(R.id.scan);
         add_item.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

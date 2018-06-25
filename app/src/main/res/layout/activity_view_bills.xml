@@ -10,7 +10,6 @@
         android:id="@+id/new_bill"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="New Bill"
         android:layout_gravity="bottom"
-        />
+        android:text="New Bill" />
 </LinearLayout>
