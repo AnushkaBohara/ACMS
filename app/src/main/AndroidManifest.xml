@@ -24,7 +24,9 @@
         <activity android:name=".ViewBills" />
         <activity android:name=".GetLocation" />
         <activity android:name=".home" />
-        <activity android:name=".Main2Activity"></activity>
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".Item_Activity" />
+        <activity android:name=".Payment"></activity>
     </application>
 
 </manifest>

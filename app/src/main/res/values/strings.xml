@@ -12,4 +12,8 @@
     <string name="Store_name">Store name</string>
     <string name="Date_purchase">DD-MM-YYYY</string>
     <string name="Amount">Rs.1000</string>
+    <string name="product_title">Product title</string>
+    <string name="product_desc">Product description</string>
+
+
 </resources>
